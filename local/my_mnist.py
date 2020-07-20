@@ -1,0 +1,1 @@
+/home/hunter/jobfile/tensorflow/my_mnist.py
